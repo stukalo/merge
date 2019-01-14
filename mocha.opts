@@ -1,0 +1,5 @@
+--colors
+--recursive
+--compilers js:babel-register
+./src/**/*.test.js
+-r ./src/testConfig/mocha-setup.js
